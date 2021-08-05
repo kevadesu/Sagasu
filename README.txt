@@ -1,0 +1,1 @@
+You will have to install geckodriver from GitHub for Sagasu to work. Sagasu works only with all official desktop flavours of Firefox and Firefox forks. I am not affiliated with DuckDuckGo. DuckDuckGo, DuckDuckGo and the DuckDuckGo logo belongs to DuckDuckGo.
