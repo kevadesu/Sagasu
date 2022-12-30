@@ -1,3 +1,4 @@
+## :warning: ABANDONED PROJECT!!
 # Sagasu
 Unofficial Desktop Client for DuckDuckGo
 # Requirements
